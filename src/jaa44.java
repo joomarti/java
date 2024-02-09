@@ -9,7 +9,7 @@ public class jaa44 {
       POO11 ww = new POO11();
 
 
-        System.out.println("name: ");
+        System.out.println("name : ");
         ww.NAME="joomart"+ ww.NAME;
       AA.SORNE="LAST NAME";
         ww.SORNE="ICHENBAEV"+ww.SORNE;
