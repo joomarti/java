@@ -10,7 +10,7 @@ public class jaa44 {
 
 
         System.out.println("name: ");
-        ww.NAME="joomart "+ ww.NAME;
+        ww.NAME="joomart"+ ww.NAME;
       AA.SORNE="LAST NAME";
         ww.SORNE="ICHENBAEV"+ww.SORNE;
       AA.AGE = "AGE"+ww.SORNE;
